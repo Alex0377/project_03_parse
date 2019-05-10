@@ -1,0 +1,802 @@
+{results: [
+scalenamatesUrl: /kits/afv-club-af35s88-cm-33-tifv--1217553
+brand: AFV Club
+name: CM-33 TIFV; Pre-Serial Production
+scale: 35
+description:  Changed parts
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/afv-club-af35308-centurion-mki--1217551
+brand: AFV Club
+name: Centurion Mk.I; 
+scale: 35
+description:  Changed parts
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/afv-club-fv35108-m108-105mm--1217545
+brand: AFV Club
+name: M108 105mm; Howitzer
+scale: 35
+description:  Changed parts
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/wip3d-32001-wip3d-schiebel-s-100-camcopter--1217539
+brand: WIP3D
+name: SCHIEBEL S-100 CAMCOPTER; 
+scale: 32
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2018
+,
+scalenamatesUrl: /kits/thunder-model-35904-flat-wagon-ssyl--1217536
+brand: Thunder Model
+name: Flat Wagon Ssyl; 
+scale: 35
+description:  New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/afv-club-af35291-m113a1-lrv--1217521
+brand: AFV Club
+name: M113A1 LRV; in Vietnam War
+scale: 35
+description:  Changed parts
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/ajm-models-700-016-uss-currituck--1217500
+brand: AJM Models 
+name: USS Currituck; 
+scale: 70
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/defmodel-dw35112-us-m142-himars-sagged-wheel-set--1217542
+brand: Def.Model
+name: US M142 HIMARS Sagged Wheel set; 
+scale: 35
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/dn-models-48-827-061-f-35c-canopy-wheels-and-eots-paint-mask-set-kitty-hawk-lightning-ii--1217564
+brand: DN Models
+name: F-35C Canopy, Wheels & EOTS Paint Mask Set for Kitty Hawk Lightning II; for Kitty Hawk #KH80132
+scale: 48
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/abc-11-2019-s89-spitfire-mkixe--1217492
+brand: abc 
+name: S.89 Spitfire Mk.IXE; Magazine for kids with bonus plastic model
+scale: 14
+description:  Changed decals
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/wolfpack-wp17204-pby5-catalina-pacific-theater--1217465
+brand: Wolfpack
+name: PBY5 Catalina 'Pacific Theater'; Premium Edition kit
+scale: 72
+description:  Changed decals
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/miniart-40002-focke-wulf-triebfluegel--1217452
+brand: MiniArt
+name: Focke-Wulf Triebflügel; Interceptor
+scale: 35
+description:  New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/amusing-hobby-35a025-arl44-french-heavy-tank--1217401
+brand: Amusing Hobby
+name: ARL44 French Heavy Tank; 
+scale: 35
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/glencoe-models-05405-roman-chariot--1217398
+brand: Glencoe Models
+name: Roman Chariot; 
+scale: 48
+description: Changed box
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/fascinations-mms181-delorean-special-brushed-stainless-steel-body--1217360
+brand: shed-stainless-steel-body--1217360">DeLorean (Special Brushed Stainless Stee
+name: DeLorean (Special Brushed Stainless Steel Body); Metal Earth
+scale: haha
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2018
+,
+scalenamatesUrl: /kits/rye-field-model-rm-5027-tiger-i-transport-mode--1217397
+brand: Rye Field Model
+name: Tiger I Transport Mode; 
+scale: 35
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/tamiya-12688-german-hummel-metal-gun-barrel--1217395
+brand: Tamiya
+name: German Hummel Metal Gun Barrel; 
+scale: 35
+description:  New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/fc-modeltips-35562-m50-super-sherman-rear-hull-box--1217366
+brand: FC Modeltips
+name: M50 Super sherman rear hull box; 
+scale: 35
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/fc-modeltips-35557-idf-hummer-bumper--1217365
+brand: FC Modeltips
+name: IDF HUMMER bumper; 
+scale: 35
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/fc-modeltips-35556-spanish-hummer-bumper--1217364
+brand: FC Modeltips
+name: Spanish HUMMER bumper; 
+scale: 35
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/fc-modeltips-35551-us-jerrycan-holder--1217363
+brand: FC Modeltips
+name: US jerrycan holder; 
+scale: 35
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/fc-modeltips-35543-m551-sheridan-vietnam-rear-turret-basket--1217358
+brand: FC Modeltips
+name: M551 Sheridan Vietnam rear turret basket; 
+scale: 35
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/fc-modeltips-35528-chile-super-chaffee--1217356
+brand: FC Modeltips
+name: Chile Super Chaffee; 
+scale: 35
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/model-43-md388-citroen-ds3-wrc-fr-906-rj-qpowerq--1217458
+brand: Model 43
+name: Citroën DS3 WRC (FR 906 RJ) "QPOWERQ; Winner MM´19 #3 Pedersoli/Tomasi
+scale: 43
+description: 
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/model-43-md387-skoda-fabia-r5-nr-s-044-metior--1217456
+brand: Model 43
+name: Škoda Fabia R5 (NR S 044) "METIOR"; Winner San Remo´19 #4 Breen/Nagle
+scale: 43
+description: 
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/rallye-miniature-1864-citroen-c3-r5-ew-198-bf-total--1217394
+brand: Rallye-Miniature
+name: Citroën C3 R5 (EW-198-BF) "TOTAL"; Lyon-Charbonniers´19 #6 Rossel/Fulcrand
+scale: 43
+description: 
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/decalcas-dcl-dec034-lancia-delta-s4--1217367
+brand: Decalcas
+name: Lancia Delta S4; 
+scale: 24
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/wip3d-35001-captain-1st-battalion-7th-division-royal-welsh-fusiliers-italian-frit-piave-river-1918--1217399
+brand: WIP3D
+name: Captain 1st Battalion, 7th Division, Royal Welsh Fusiliers, Italian Frit, Piave river 1918; 
+scale: 35
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2018
+,
+scalenamatesUrl: /kits/dieselkits-dk35-018-brutus-wolfhound--1217378
+brand: tus-wolfhound--1217378">Brutus - the Wo
+name: Brutus - the Wolfhound; Steampunk Dog
+scale: 35
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/dieselkits-dk24-017-brutus-wolfhound--1217377
+brand: tus-wolfhound--1217377">Brutus - the Wo
+name: Brutus - the Wolfhound; Steampunk Dog
+scale: 24
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/dieselkits-dk35-016-fiona-fly--1217373
+brand: Dieselkits
+name: Fiona Fly; Steampunk Girl for Bulldog
+scale: 35
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/dieselkits-dk35-015-susan-slick--1217371
+brand: Dieselkits
+name: Susan Slick; Steampunk Girl for Bulldog
+scale: 35
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/dieselkits-dk35-014-rough-john--1217369
+brand: Dieselkits
+name: Rough John; Steampunk Guy
+scale: 35
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/dieselkits-dk35-013-dogmother--1217368
+brand: Dieselkits
+name: Dogmother; Steampunk Girl
+scale: 35
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/fc-modeltips-35549-kids-set-4--1217362
+brand: FC Modeltips
+name: Kids set 4; 
+scale: 35
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/fc-modeltips-35547-kids-set-3--1217361
+brand: FC Modeltips
+name: Kids set 3; 
+scale: 35
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/fc-modeltips-35546-kids-set-2--1217359
+brand: FC Modeltips
+name: Kids set 2; 
+scale: 35
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/kitty-hawk-kh801-sukhoi-su-25-frogfoot--1217305
+brand: Kitty Hawk
+name: Sukhoi Su-25 Frogfoot; 
+scale: 48
+description:  New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2020
+,
+scalenamatesUrl: /kits/kitty-hawk-kh801xx-sukhoi-su-57-frazor--1217304
+brand: Kitty Hawk
+name: Sukhoi Su-57 Frazor; 
+scale: 48
+description:  New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2020
+,
+scalenamatesUrl: /kits/panda-hobby-ph-35052-m1240-m-atv-with-spark-mine-roller--1217284
+brand: Panda Hobby
+name: M1240 M-ATV with SPARK Mine Roller; 
+scale: 35
+description:  Changed parts
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/glencoe-models-05402-covered-wagon--1217270
+brand: Glencoe Models
+name: Covered Wagon; 
+scale: 48
+description: Changed box
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/wip3d-35003-carrello-portacarri-fiat3000-l3--1217238
+brand: WIP3D
+name: CARRELLO PORTACARRI FIAT3000/L3; 
+scale: 35
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2018
+,
+scalenamatesUrl: /kits/afv-club-af35203-m16-half-track--1217202
+brand: AFV Club
+name: M16 Half-track; 
+scale: 35
+description:  New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/mpc-round2-eagle-transporter--1217150
+brand: MPC/Round2
+name: Eagle Transporter; 
+scale:  1
+description:  New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/orange-house-2070-ligier-js23-1984-brazil-gp--1217118
+brand: zil-gp--1217118">Ligier JS23 1984 Br
+name: Ligier JS23 1984 Brazil GP; 
+scale: 20
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/orange-house-2071-ligier-js23-1984-france-gp--1217116
+brand: Orange House
+name: Ligier JS23 1984 France GP; 
+scale: 20
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/scalelab-24-sl01-010-22-sh-hr-wheels--1217316
+brand: ScaleLab_24
+name: 22" SH_HR wheels; 
+scale: 24
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2018
+,
+scalenamatesUrl: /kits/scalelab-24-sl02-011-photo-etch-manhole-and-drain-cover--1217314
+brand: ScaleLab_24
+name: Photo etch manhole & drain cover; 
+scale: 24
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/scalelab-24-sl01-009-22-bb-wheels--1217313
+brand: ScaleLab_24
+name: 22" BB wheels; 
+scale: 24
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/perfect-scale-modellbau-a1005-diehl-828g-tracks-revell-s-kajapa-and-jaguar--1217301
+brand: Perfect Scale Modellbau
+name: Diehl 828G Tracks for Revell´s KaJaPa and Jaguar; 
+scale: 35
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/paragrafix-modeling-systems-pgx220-eva-pod-photoetch-set--1217298
+brand: ParaGrafix Modeling System
+name: EVA Pod Photoetch Set; 
+scale: 8 
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/wings-pegasus-me262-canopy-plug--1217217
+brand: Wings of Pegasus
+name: Me262 canopy plug; free download to print
+scale: 72
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/scalelab-24-sl02-010-1-20-photo-etch-f1-pitboard-including-letters--1217211
+brand: ScaleLab_24
+name: 1/20 Photo etch F1 Pitboard (including letters); 
+scale: 20
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/scalelab-24-sl01-017-1-24-porsche-934-rsr-p-e-wheels--1217209
+brand: ScaleLab_24
+name: 1/24 Porsche 934 RSR P/E wheels; 
+scale: 24
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/scalelab-24-sl01-002-1-24-ff-hr-wheels--1217207
+brand: ScaleLab_24
+name: 1/24 FF_HR wheels; 
+scale: 24
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/sbs-model-48059-bristol-blenheim-mki-engine-and-cowling-set--1217198
+brand: stol-blenheim-mki-engine-and-cowling-set--1217198">Bristol Blenheim MK.I (Engine and Cowli
+name: Bristol Blenheim MK.I (Engine and Cowling Set); 
+scale: 48
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/scalelab-24-sl02-013-1-24-p-e-set-revell-porsche-panamera--1217184
+brand: ScaleLab_24
+name: 1/24 p/e set for Revell Porsche Panamera; 
+scale: 24
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/scalelab-24-sl02-012-photo-etch-parts-porsche-935-k2-77-drm-ver--1217182
+brand: ScaleLab_24
+name: Photo Etch Parts for Porsche 935 K2 '77 DRM Ver.; 
+scale: 24
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/maxi-miniature-fr-066-alpine-renault-a110-1800--1217307
+brand: Maxi Miniature (FR)
+name: Alpine-Renault A110 1800; Côte Fleurie´18 #206 Lemoine/Jamet
+scale: 43
+description: 
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/dadblues-db1804-bmw-m3-2298-wh-01-morel-btp--1217224
+brand: dadblues
+name: BMW M3 (2298 WH 01) "MOREL BTP"; Lyon-Charbonnieres´03 #129 Morel/Dumontel
+scale: 43
+description: 
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2018
+,
+scalenamatesUrl: /kits/dadblues-db180x-bmw-m3-8551-wwj-59-localuxe--1217219
+brand: dadblues
+name: BMW M3 (8551 WWJ 59) "LOCALUXE"; Winner Lyon-Charbonnières´91 #4 Pignard/Berruyer
+scale: 43
+description: 
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2018
+,
+scalenamatesUrl: /kits/dieselkits-dk16-005-rough-john--1217194
+brand: Dieselkits
+name: Rough John; Steampunk Boy
+scale: 16
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/dieselkits-dk16-004-dogmother--1217192
+brand: Dieselkits
+name: Dogmother; Steampunk Girl
+scale: 16
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/icm-ds3502-army-group-center-summer-1941--1217289
+brand: ICM
+name: Army Group "Center" (Summer 1941); (Kfz.1, Typ L3000S, German Infantry (4 figures), German Drivers (4 figures)
+scale: 35
+description:  Model set
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/icm-ds3502-army-group-center-summer-1941--1217289
+brand: ICM
+name: Army Group "Center" (Summer 1941); (Kfz.1, Typ L3000S, German Infantry (4 figures), German Drivers (4 figures)
+scale: 35
+description:  Model set
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/icm-ds3502-army-group-center-summer-1941--1217289
+brand: ICM
+name: Army Group "Center" (Summer 1941); (Kfz.1, Typ L3000S, German Infantry (4 figures), German Drivers (4 figures)
+scale: 35
+description:  Model set
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/adv-azimut-modell-10075-remorque-generateur-sd-anh-24--1216986
+brand: ADV/Azimut-Modell
+name: Remorque générateur Sd. Anh. 24; 
+scale: 35
+description: 
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/amp-32001-hughes-th-55a-osage--1216966
+brand: AMP
+name: Hughes TH-55A Osage; 
+scale: 32
+description:  New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/amp-48011-piaggio-pegna-pc7--1216965
+brand: AMP
+name: Piaggio-Pegna P.C.7; Schneider Trophy series
+scale: 48
+description: 
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/aber-35l-275-main-armament-soviet-heavy-tank-smk-1x76-2mm-l-11-1x45mm-m1932--1216970
+brand: Aber
+name: Main Armament for Soviet Heavy Tank SMK 1x76,2mm L-11, 1x45mm M1932; Takom
+scale: 35
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/dadblues-db1805-bmw-m3-7928-mb-38-generali-assurances--1217001
+brand: dadblues
+name: BMW M3 (7928 MB 38) "GENERALI ASSURANCES"; Lyon-Charbonnières´03 #137 Caillat/Marchand
+scale: 43
+description: 
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2018
+,
+scalenamatesUrl: /kits/dadblues-db1802-bmw-m3--1217000
+brand: dadblues
+name: BMW M3; Lyon-Charbonnières´18 #44 Sabiron/Tavernier
+scale: 43
+description: 
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2018
+,
+scalenamatesUrl: /kits/dadblues-db1801-bmw-m3-6146-vk-69-atac-supermarche--1216998
+brand: dadblues
+name: BMW M3 (6146 VK 69) "ATAC SuperMarché"; Lyon-Charbonnieres´03 #133 Messy/Ducloux
+scale: 43
+description: 
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2018
+,
+scalenamatesUrl: /kits/rallye-miniature-1863-ford-fiesta-rs-wrc-wagner--1216971
+brand: Rallye-Miniature
+name: Ford Fiesta RS WRC "WAGNER"; Lyon-Charbonniers´19 #19 Pereira/Tutélaire
+scale: 43
+description: 
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/dadblues-db1901-bmw-m3-626-ww-54-sagatrans--1216951
+brand: dadblues
+name: BMW M3 (626 WW 54) "SAGATRANS"; Lyon-Charbonnières´89 #5 Kruger/Roissard
+scale: 43
+description: 
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/dadblues-db1902-bmw-m3-5978-wd-42-motul--1216949
+brand: dadblues
+name: BMW M3 (5978 WD 42) "MOTUL"; Lyon-Charbonniers´95 #8 Peyrache/Cotte
+scale: 43
+description: 
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/rallye-miniature-1862-citroen-ds3-r3t-hdg--1216948
+brand: Rallye-Miniature
+name: Citroën DS3 R3T "HDG"; Lyon-Charbonniers´19 #30 Robert/Duval
+scale: 43
+description: 
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/rallye-miniature-1861-renault-clio-rs-r3t--1216925
+brand: Rallye-Miniature
+name: Renault Clio RS R3T; Lyon-Charbonniers´19 #41 Courtois/Risser
+scale: 43
+description: 
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/e2046-fg11553-twintail-maid--1216931
+brand: E204
+name: Twintail Maid; 
+scale: 4 
+description: 
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/sbs-model-sbs7022-caudron-c450--1216782
+brand: SBS Model
+name: Caudron C.450; 
+scale: 72
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/model-monkey-72-dkm-15cm-trrt-deutsche-kriegsmarine-15-cm-sk-c-28-twin-gun-turret-with-barrels--1216845
+brand: Model Monkey
+name: Deutsche Kriegsmarine 15 cm SK C/28 Twin-gun Turret with Barrels; for Bismarck, Tirpitz, Scharnhorst, Gneisenau, etc.
+scale: 72
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/amur-reaver-pe4831-su-33-exterior-1-48--1216810
+brand: A.M.U.R. Reaver
+name: Su-33 Exterior 1/48; 
+scale: 48
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/amur-reaver-pe4829-f-14d-and-a-late-detail-set-tamiya-1-48--1216809
+brand: A.M.U.R. Reaver
+name: F-14D and A-late Detail Set for Tamiya 1/48; 
+scale: 48
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/amur-reaver-pe4828-r-77-rvv-ae-grid-fins-1-48--1216807
+brand: A.M.U.R. Reaver
+name: R-77 (RVV-AE) Grid Fins 1/48; 
+scale: 48
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/pit-road-332-aircraft-carrier-graf-zeppelin--1216680
+brand: Pit-Road 
+name: Aircraft carrier Graf Zeppelin; PHOTO-ETCHED PARTS
+scale: 70
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/dadblues-db1807-bmw-m3-motul--1216811
+brand: dadblues
+name: BMW M3 "MOTUL"; Lyon-Charbonnières´92 #3 Pignard/Barthelot
+scale: 43
+description: 
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2018
+,
+scalenamatesUrl: /kits/dadblues-db1903-bmw-m3-8191-rz-47-yacco--1216808
+brand: dadblues
+name: BMW M3 (8191 RZ 47) " YACCO"; Lyon-Charbonniers´97 #21 Delage/Mondésir
+scale: 43
+description: 
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/dadblues-db1904-bmw-m3-4505-vk-51-gam--1216806
+brand: dadblues
+name: BMW M3 (4505 VK 51) "Gam"; Winner Lyon-Charbonnières´94 #2 Delage/Mondésir
+scale: 43
+description: 
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/dadblues-db1701-bmw-m3-aud--1216804
+brand: dadblues
+name: BMW M3 "A.U.D."; Lyon-Charbonnieres´03 #113 Reynaud/Perez
+scale: 43
+description: 
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2017
+,
+scalenamatesUrl: /kits/y-modelle-y35-177-bofors-flak-40-mm-l70-fl--1216505
+brand: Y-Modelle
+name: BOFORS - Flak 40 mm - L70 FL; 
+scale: 35
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/model-monkey-84-carriages-12med-carriages-12-pounder-cannons-medium-pattern-set-2--1216655
+brand: Model Monkey
+name: Carriages for 12-pounder Cannons, medium-pattern (set of 2); for HMS Victory and more!
+scale: 84
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/model-monkey-84-carriages-12short-carriages-12-pounder-cannons-short-pattern-set-6--1216643
+brand: Model Monkey
+name: Carriages for 12-pounder Cannons, short-pattern (set of 6); for HMS Victory and more!
+scale: 84
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/garage-kit-swf03-resin-28cm-main-gun-barrel-x2--1216616
+brand: Garage Kit
+name: Resin 28cm main gun barrel (x2); For Landcruiser P.1000 Ratte
+scale: 72
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/casa-185-decals-c185d001-lockheed-sp-2e-neptune-0644-2-p-103-armada-argentina--1216668
+brand: Casa 185 Decals
+name: Lockheed SP-2E Neptune 0644 / 2-P-103 Armada Argentina; 
+scale: 72
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/ascensio-225-001-antonov-an-225--1216630
+brand: Ascensio 
+name: Antonov An-225; Revell
+scale: 14
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2018
+,
+scalenamatesUrl: /kits/amusing-hobby-35a024-le-german-88mm-l71-flak-41-anti-aircraft-gun--1216633
+brand: Amusing Hobby
+name: German 88mm L71 FlaK 41 Anti-Aircraft Gun; with Rutscher Panzerkleinzerstörer (35B001) Limited Edition
+scale: 35
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2018
+,
+scalenamatesUrl: /kits/civilized-models-720011civ-cessna-150-ii--1216468
+brand: Civilized Models
+name: Cessna 150 II; (open wheel)
+scale: 72
+description: Changed decals
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/civilized-models-720010civ-cessna-150-ii-152--1216462
+brand: Civilized Models
+name: Cessna 150 II / 152; 
+scale: 72
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/games-workshop-84-28-magmic-battleforge--1216429
+brand: Games Workshop
+name: Magmic Battleforge; 
+scale: haha
+description: New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+scalenamatesUrl: /kits/bandai-tba-star-destroyer--1216424
+brand: Bandai 1
+name: Star Destroyer; 
+scale: 50
+description:  New tool
+boxartUrl: /products/img/5/5/3/1217553-23814-74-
+year: 2019
+,
+]}
